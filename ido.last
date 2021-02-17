@@ -1,0 +1,202 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/Taller-Escriptura/" . "Redaccio-5/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/3D/" . "Suport-Cam/")
+ ("/Users/anassanhari/Library/texmf/" . "tex/")
+ ("/Users/anassanhari/Library/" . "texmf/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-4/" . "src/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/" . "Pract-1/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/Memoria/" . "img/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/" . "Memoria/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/" . "Pract-4/")
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/" . "Disp-Prog/")
+ ("/Users/anassanhari/Desktop/Practs/Practiques_SVN/" . "p7/")
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/Practiques/" . "Practica-3/")
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/" . "Practiques/")
+ ("/Users/anassanhari/desktop/UPC/Q2/" . "Teoria_Circuits/")
+ ("/Users/anassanhari/desktop/UPC/" . "Q2/")
+ ("/Users/anassanhari/Desktop/" . "Practs/")
+ ("/Users/anassanhari/.emacs.d/plugins/yasnippet/snippets/" . "autoload/")
+ ("/Users/anassanhari/.emacs.d/plugins/yasnippet/" . "snippets/")
+ ("/Users/anassanhari/.emacs.d/plugins/" . "yasnippet/")
+ ("/Users/anassanhari/.emacs.d/" . "plugins/")
+ ("/Users/anassanhari/" . "Library/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/"
+ "/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/PCB/ATmega328p/Latex/"
+ "/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/3D/Suport-Cam/"
+ "/Users/anassanhari/Library/texmf/tex/"
+ "/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-3/src/"
+ "/Users/anassanhari/Desktop/latex/"
+ "/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/Memoria/src/"
+ "/Users/anassanhari/Desktop/Practs/Practiques_SVN/p7/"
+ "/Users/anassanhari/Desktop/emeplepackages/"
+ "/Users/anassanhari/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Makefile"
+ "InformeAnassAnhari.tex"
+ "DissenyFinal-Anass.tex"
+ "beamercolorthemeupc.sty"
+ ".gitignore"
+ "prac3_3.S"
+ "avrlang.tex"
+ "quart.S"
+ "tercer.S"
+ "eines.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Exàmens/2020/" (24593 50697 0 0) "gen16.S" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-10/" (24572 53420 0 0) "src/" "P10_Anhari_Alamillo.log" "P10_Anhari_Alamillo.aux" "img/" "Practica10.pdf" "P10_Anhari_Alamillo.tex" "Makefile" "P10_Anhari_Alamillo.out" ".DS_Store" "P10_Anhari_Alamillo.pdf" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/" (24568 36911 779913 158000) "anassinit.el" ".git/" "elpa/" "recentf" "init.el" ".python-environments/" "auto-save-list/" "my_init_bak.org" ".DS_Store" "anassinit.org" "ido.last" "snippets/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/anassanhari/Library/texmf/tex/" (24547 26246 208130 182000) "lst-erlang.sty" "paletaupc.sty" "practicaitic.log" "ccbyncsa.sty" "lst-python.sty" "beamercolorthemeupc.sty" "lstlang.sty" "#lstlang.sty#" "lst-make.sty" "logoitic.sty" "lst-vhdl.sty" "relacions.sty" "logodipse.sty" "iticslides.cls" "#maple2e.sty#" "empresa.cls" "maple2e.sty" "xuletaritic.cls" "bolaupc.sty" "lst-avr.sty" ".DS_Store" "lst-common.sty" "paperdipse.sty" "lst-shell.sty" "lst-sql.sty" "lstlang.log" "practicaitic.cls" "lst-c.sty" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/3D/Suport-Cam/" (24548 42985 0 0) "DissenyFinal-Anass.pdf" "DissenyFinal-Anass.tex" "DissenyFinal-Anass.out" "img/" "Plataforma-Anass.obj" "Plataforma-Anass.stl" ".DS_Store" "DissenyFinal-Anass.log" "Plataforma-Anass.gcode" "DissenyFinal-Anass.aux" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-10/src/" (24568 36845 0 0) "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-9/" (24542 29430 0 0) "P9_Anhari_Alamillo.out" "src/" "P9_Anhari_Alamillo.tex" "Manual.pdf" "P9_Anhari_Alamillo.pdf" "lxsrc/" "img/" "P9_Anhari_Alamillo.aux" "AVRListing.tex" "P9_Anhari_Alamillo.log" "Makefile" ".DS_Store" "Practica9.pdf" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-9/img/" (24542 24819 0 0) "t52.jpeg" "t2.jpeg" "t32.jpeg" "p2.jpg" "t31.jpeg" "t1.jpeg" "t51.jpeg" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-9/lxsrc/" (24542 24822 0 0) "p5.S" "p3.S" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/" (24540 43242 0 0) "Plantilla-Latex/" "Pract-1/" "Pract-/" "#.DS_Store#" "Pract-2/" "Pract-5/" "Pract-4/" "Pract-3/" "Makefile" "Icon
+" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/Taller-Escriptura/Redaccio-5/" (24540 43626 0 0) "Redaccio-3.blg" "Redaccio-3.log" "Redaccio-3.aux" "Redaccio-3.bbl" "Redaccio-3.pdf" "mybib.bib" "Redaccio-3.tex" "Redaccio-3.out" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/Taller-Escriptura/" (24540 43626 0 0) "Redaccio-2/" "Redaccio-5/" "Redaccio-4/" "Redaccio-3/" "notes-1.pdf" "Redaccio-1/" "Redaccio-3Real/" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-3/src/" (24502 41931 0 0) "prac3_1.S" "prac3_2.S" "primer.S" "prac3_3.S" "segon.S" "Makefile" "prac3_4.S" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Empresa/Pla-Empresa/" (24514 35609 0 0) "pla_empresa.bbl" "pla_empresa.pdf" "pla_empresa.tex" "pla_empresa.toc" "bib.bib" "pla_empresa.out" "img/" "Makefile" ".temp_files/" "Guia-Innova.pdf" "PlaEmpresaUpf.pdf" ".DS_Store" "Baròmetre CTECNO 2019 - CA.pdf" ".svn/" "pla_empresa.log" "pla_empresa.aux" "pla_empresa.blg" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-7/" (24498 44269 0 0) "src/" "hol.aux" "hol.log" "Practica7.pdf" "P7_Anhari_Alamillo.pdf" "P7_Anhari_Alamillo.toc" "P7_Anhari_Alamillo.tex" "srcxl/" "P7_Anhari_Alamillo.out" "Resum_Operacions.pdf" "img/" "AVRListing.tex" "#P7_Anhari_Alamillo.tex#" "Makefile" "hol.tex" "hol.pdf" "ascii.table" ".DS_Store" "P7_Anhari_Alamillo.aux" "P7_Anhari_Alamillo.log" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-7/src/" (24497 33783 690274 226000) ".#auxprevi6.S" "aux.S" "prac7_1.S" "picocom.S" "#auxprevi6.S#" "Makefile" "auxprevi6.S" "codes.S" "text.S" "cutecom.S" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/PCB/ATmega328p/Latex/" (24478 54622 0 0) "InformeAnassAnhari.tex" "InformeAnassAnhari.out" "InformeAnassAnhari.pdf" "img/" "InformeAnassAnhari.aux" "InformeAnassAnhari.log" ".DS_Store" ".#InformeAnassAnhari.tex" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/PCB + 3D/3D/" (24476 15304 0 0) "Support-Mobil/" ".DS_Store" "Tutorial/" "Suport-Cam/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Comp2/Taller-Escriptura/Redacció-2/" (24473 49255 238292 763000) "plantilla.log" "plantilla.aux" "plantilla.out" "plantilla.tex" "plantilla.pdf" ".#plantilla.tex" "../" "./")
+
+ ("/Users/anassanhari/Library/texmf/" (24252 15404 390272 703000) "ls-R" ".DS_Store" "tex/" "../" "./")
+
+ ("/Users/anassanhari/Library/" (24410 1700 215128 660000) "Caches/" "CoreFollowUp/" "Keyboard/" "Services/" "Cookies/" "Input Methods/" "Reminders/" "SafariSafeBrowsing/" "Spelling/" "CallServices/" "VoiceTrigger/" "Screen Savers/" "Metadata/" "KeyboardServices/" "Accessibility/" "Fonts/" "PersonalizationPortrait/" "ScreenRecordings/" "Containers/" "Dictionaries/" "Group Containers/" "LaunchAgents/" "Suggestions/" "PubSub/" "Mobile Documents/" "FileProvider/" "PreferencePanes/" "MediaStream/" "Vivox/" "Colors/" "Safari/" "Accounts/" "Voices/" "FrontBoard/" "Internet Plug-Ins/" "PhotoshopCrashes/" "Logs/" "Keyboard Layouts/" "Audio/" "SyncedPreferences/" "Printers/" "com.apple.internal.ck/" "Sounds/" "FontCollections/" "VirtualBox/" "com.apple.icloud.searchpartyd/" "iMovie/" "iTunes/" "Family/" "Edraw/" "Passes/" "texmf/" "Favorites/" "LanguageModeling/" "Google/" "GameKit/" "Compositions/" "UIKitSystem/" "Mail/" "Arduino15/" ".localized" "Python/" "Assistants/" "Application Scripts/" "ColorPickers/" "Sharing/" ".DS_Store" "Keychains/" "HomeKit/" "Messages/" "studentd/" "MobileDevice/" "Preferences/" "Calendars/" "Developer/" "WebKit/" "IdentityServices/" "Saved Application State/" "Autosave Information/" "Assistant/" "Maps/" "Application Support/" "TeXShop/" "../" "./")
+
+ ("/Users/anassanhari/" (24465 25323 493299 784000) ".viminfo" ".bash_history" ".gitconfig" ".inputrc" ".cache/" ".python_history" "Downloads/" ".bash_profile" ".spacemacs" ".vscode/" ".mono/" ".rstudio-desktop/" ".ngrok2/" ".mailcap" "Documents/" ".npm/" ".Trash/" ".emacs.d.bak/" ".Rapp.history" "Applications/" "Movies/" ".ssh/" "Virtual Machines.localized/" "Public/" ".ms_openjdk_config" ".bash_sessions/" ".cups/" ".android/" ".octave_hist" ".emacs.d/" ".IdentityService/" ".git-completion.bash" ".oracle_jre_usage/" ".doom.d/" ".matplotlib/" "Library/" "Desktop/" ".zsh_history" ".zprofile" ".atom/" ".pylint.d/" "Programas/" "Pictures/" "Creative Cloud Files/" ".local/" ".templateengine/" ".mime.types" "Makefile" ".zshrc" ".jssc/" ".subversion/" ".netrc" ".bash_rc" ".CFUserTextEncoding" ".bash_profile.swp" "VirtualBox VMs/" ".thumbnails/" ".DS_Store" "spinx/" "Screenshots/" "octave-workspace" ".pythonrc.py" "Music/" ".config/" ".Rhistory" ".xournalpp/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/" (24465 52119 0 0) "P2.mws" "UPC/" "edos lineals.mws" "Anass/" "Pract-2/" "Projects/" ".localized" ".DS_Store" "Personal/" "untitled folder/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/" (24465 52119 0 0) "Q3/" "Q2/" "Q1/" "Icon
+" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/" (24465 52119 0 0) "Mates2/" "Comp2/" "Pràctiques/" "Circuits-SL/" "Empresa/" "Icon
+" ".DS_Store" "Disp-Prog/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Mates2/" (24465 52119 0 0) "Tema 1/" "Maple/" "maplev4/" "Treball-1/" "Icon
+" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Mates2/Treball-1/" (24465 52119 0 0) "#PRUEBAAAAAAA.tex#" ".#PRUEBAAAAAAA.tex" "pruebas" "PRUEBAAAAAAA.log" "Aproximació.mws" "tex02.eps" "tex03.eps" "hola" "tex01.eps" "Euler.mws" "Latex/" "PRUEBA01.eps" "Final.mws" "PRUEBA02.eps" ".DS_Store" ".svn/" "tex" "PRUEBAAAAAAA.tex" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Mates2/Treball-1/Latex/" (24465 51449 0 0) "plantilla.log" "plantilla.aux" "img/" "plantilla.out" "plantilla.tex" "Makefile" "plantilla.pdf" "#plantilla.tex#" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-4/src/" (24443 28522 0 0) "prac4_1.S" "prac4_ex.S" "prac4_2.S" "prac4_3.S" "Makefile" "previ1.S" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/Pract-4/" (24443 28522 0 0) "src/" "Practica4.pdf" "img/" "AVRListing.tex" "plantilla.tex" "Makefile" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/" (24443 28519 0 0) "Plantilla-LaTeX/" "Pract-2/" "Pract-4/" "Pract-3/" "Makefile" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/Pract-1/src/" (24441 45811 0 0) "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/Pract-1/" (24442 2029 0 0) "src/" "P1_Anhari_Alamillo.pdf" "plantilla.log" "plantilla.aux" "Practica1.pdf" "img/" "plantilla.out" "plantilla.tex" "Makefile" "plantilla.pdf" ".DS_Store" "#plantilla.tex#" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/" (24443 28519 0 0) "Circuits-SL/" "Icon
+" ".DS_Store" ".svn/" "Disp-Prog/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Circuits-SL/Pract-1/img/" (24441 56842 0 0) "photo_2020-10-04_14-30-32.jpg" "photo_2020-10-04_14-29-12.jpg" "sos.png" "photo_2020-10-04_14-30-30.jpg" "photo_2020-10-04_14-29-29.jpg" "photo_2020-10-04_14-29-15.jpg" "photo_2020-10-04_14-29-58.jpg" "photo_2020-10-04 14.32.56.jpeg" "photo_2020-10-04_14-29-48.jpg" "TTL.jpg" "video_2020-10-04_14-30-09.mp4" "photo_2020-10-04_14-29-45.jpg" "photo_2020-10-04_14-29-50.jpg" "photo_2020-10-04_14-29-44.jpg" "photo_2020-10-04_14-29-52.jpg" "photo_2020-10-04_14-29-53.jpg" "photo_2020-10-04 14.32.59.jpeg" "photo_2020-10-04_14-29-57.jpg" "IMG_1896.MOV" "photo_2020-10-04_14-29-55.jpg" "photo_2020-10-04_14-29-41.jpg" "photo_2020-10-04_14-29-26.jpg" "photo_2020-10-04 14.32.49.jpeg" "photo_2020-10-04_14-30-06.jpg" ".DS_Store" "photo_2020-10-04_14-29-24.jpg" "photo_2020-10-04_14-30-29.jpg" "photo_2020-10-04_14-30-01.jpg" "photo_2020-10-04_14-29-34.jpg" "photo_2020-10-04_14-29-21.jpg" "photo_2020-10-04_14-29-37.jpg" "../" "./")
+
+ ("/Users/anassanhari/Desktop/latex/" (24432 34500 0 0) "latex.pdf" "avrlang.tex" "latex.tex" "main.asm" "#latex.aux#" "latex.log" "latex.aux" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/Memoria/src/" (24431 25622 0 0) "#quart.S#" "primer.disam" "primer.elf" "quart3.S" "primer.S" "tercer2.S" "cinque.S" "quart.S" "segon.S" "quart_old.S" "Makefile" "tercer.S" ".DS_Store" "quart2.S" "primer.hex" "../" "./")
+
+ ("/Users/anassanhari/Desktop/latex/AVRListing/" (24431 29231 0 0) ".git/" ".gitattributes" "main.tmp" ".gitignore" "README.md" "AVRListing.tex" "main.asm" "main.tex" "LICENSE" "main.pdf" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/Memoria/" (24427 33583 0 0) "Practica2.pdf" "src/" "P2_Anhari_Alamillo.pdf" "Laboratori/" "P2_Anhari_Alamillo.out" "P2_Anhari_Alamillo.tex" "img/" "Makefile" "P2_Anhari_Alamillo.log" "P2_Anhari_Alamillo.aux" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/Memoria/img/" (24424 52055 0 0) "pinnout-atmega328p.png" "little-endian.png" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q3/Pràctiques/Disp-Prog/p2/" (24424 63467 0 0) "Memoria/" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/UPC/Q2/Teoria_Circuits/Practiques/Practica-5/Memoria/" (24277 8306 0 0) "src/" "plantilla.log" "plantilla.aux" "img/" "plantilla.out" "plantilla.tex" "plantilla.toc" "Makefile" "_region_.tex" "plantilla.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Practs/Practiques_SVN/p7/" (24251 1770 0 0) "p7.tex" "p7.pdf" "sort_vell.py" "sort_fixed_latex.py" "sort_latex.py" "test.py" "eines.py" "#test.py#" "experiments/" "sort.py" "Makefile" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Practs/Practiques_SVN/p7/experiments/" (24251 1770 0 0) "exp2/" "exp1/" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Practs/Practiques_SVN/p7/experiments/exp2/" (24251 1770 0 0) "dades.dat" "exp2.py" "Exp2.png" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Practs/" (24250 49545 0 0) "Practiques_SVN/" "Icon
+" ".DS_Store" "Practiques_GIT/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Practs/Practiques_SVN/" (24250 49545 0 0) "p7/" ".DS_Store" ".svn/" "p5/" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/Practiques/Practica-3/Memoria/" (24246 34441 0 0) "src/" "plantilla.log" "plantilla.aux" "img/" "plantilla.out" "plantilla.tex" "plantilla.toc" "_region_.tex" "plantilla.pdf" ".DS_Store" ".#plantilla.tex" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/" (24246 30679 0 0) "Q2/" ".git/" "Q1/" "Icon
+" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/Practiques/Practica-3/" (24246 30553 0 0) "Previ/" "Memoria/" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/Practiques/" (24246 30551 0 0) "Practica-3/" "Practica-2/" "Makefile" "Practica-1/" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/Q2/Teoria_Circuits/" (24246 30552 0 0) "Parcials+Solucions/" "Temes/" ".DS_Store" "Practiques/" "../" "./")
+
+ ("/Users/anassanhari/desktop/UPC/Q2/" (24246 30552 0 0) "Mates/" "Sistemes_Digitals/" "Tec_Comp/" "Teoria_Circuits/" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/emeplepackages/" (24245 25926 0 0) "adeu.tex" "probes.vhd" ".svn/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_GIT/" (24245 21060 0 0) "Backups/" "Practica-3/" "Practica-2/" "Practica-3bis/" ".DS_Store" "Practica-1/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/" (24245 21059 0 0) "Practiques_SVN/" "Icon
+" ".DS_Store" "Practiques_GIT/" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/plugins/yasnippet/snippets/autoload/" (24171 54708 50030 112000) "settings.el" "snippets.el" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/plugins/yasnippet/snippets/" (24245 16728 579475 164000) "README.org" "autoload/" "config.el" "packages.el" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/plugins/yasnippet/" (24245 16988 597872 294000) ".travis.yml" ".git/" "doc/" "CONTRIBUTING.md" ".gitignore" "NEWS" "Rakefile" "README.mdown" ".gitmodules" "yasnippet-tests.el" "yasnippet.el" "yasnippet-debug.el" "snippets/" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/plugins/" (24245 16988 597872 488000) "yasnippet/" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_GIT/Practica-3/" (24245 17078 0 0) "src/" ".git/" "doc/" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_GIT/Practica-3/src/" (24245 17088 148097 520000) "prova5.txt" "prova4.txt" ".#producte.py" "prova3.txt" "prova.txt" "main.py" "prova2.txt" "receptari.py" "prova4.dat" "provaprova.txt" "producte.py" ".DS_Store" "recepta.py" "interpret.py" "../" "./")
+
+ ("/Users/anassanhari/.emacs.d/snippets/" (24245 16728 579475 164000) "README.org" "autoload/" "config.el" "packages.el" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_GIT/Practica-3bis/" (24245 16819 0 0) "src/" "Practica-3bis 2/" ".vscode/" "README.txt" "doc/" "pract-3bis-equip-2.tar.gz" ".DS_Store" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_GIT/Practica-3bis/src/" (24245 16822 118937 778000) "unitats.pyc" "receptari.pyc" "producte.pyc" "interpret.pyc" "main.py" "recepta.pyc" ".#main.py" "receptari.py" "provabak.txt" "unitats.py" "receptaris_pdf/" "producte.py" "receptes_pdf/" "recepta.py" "interpret.py" "main.pyc" "../" "./")
+
+ ("/Users/anassanhari/Desktop/Nova-Plantilla/" (24244 17292 0 0) "Images/" "LatexBits/" ".DS_Store" ".#plantilla.tex" "../" "./")
+
+ ("/Users/anassanhari/Desktop/GitProjects/Practiques_SVN/" (24244 15447 0 0) ".DS_Store" ".svn/" "p5/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

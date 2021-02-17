@@ -14,6 +14,8 @@
 
   (delete-selection-mode 1) ;; Per borar una selecció
 
+  (add-hook 'text-mode-hook 'turn-on-auto-fill) ;; Per ficar el autofill
+
   (show-paren-mode 1) ;; Remarca parèntesis
 
   (set-language-environment "UTF-8") ;; Tot bé i sense errors
@@ -96,6 +98,10 @@
     (define-key ac-completing-map [return] nil)
     (define-key ac-completing-map "\r" nil)))
 
+;; (use-package autopair
+;;     :ensure t)
+;;     (autopair-global-mode)
+
 (use-package flycheck
   :ensure t
   :init
@@ -115,7 +121,7 @@
 (use-package yasnippet
   :ensure t
   :init
-  (yas-minor-mode 1))
+  (yas-global-mode 1))
 
 ;; (require 'undo-tree)
 
@@ -165,16 +171,18 @@
     :hook (after-init . doom-modeline-mode))
 
 (use-package memoize
-	:ensure t)
+    :ensure t)
 
-    (use-package neotree
-	:ensure t
-	;; :init
-	;; (global-flycheck-mode t)
-)
+(use-package neotree
+    :ensure t
+    ;; :init
+    ;; (global-flycheck-mode t)
+    )
 
-    ;; (setq neo-theme (if (display-graphic-p) 'icons 'arrow))
-    ;; (insert (all-the-icons-icon-for-file "foo.py"))
+    (setq neo-window-fixed-size nil)
+
+;; (setq neo-theme (if (display-graphic-p) 'icons 'arrow))
+;; (insert (all-the-icons-icon-for-file "foo.py"))
 
 (require 'highlight-indent-guides)
 (add-hook 'python-mode-hook 'highlight-indent-guides-mode)
@@ -182,6 +190,8 @@
 
 (add-hook 'LaTeX-mode-hook (function turn-on-reftex))
 (setq reftex-plug-into-AUCTeX t)
+
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)   ; with AUCTeX LaTeX mode
 
 (defun move-text-internal (arg)
   (cond

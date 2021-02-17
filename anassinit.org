@@ -19,6 +19,8 @@
 
   (delete-selection-mode 1) ;; Per borar una selecció
 
+  (add-hook 'text-mode-hook 'turn-on-auto-fill) ;; Per ficar el autofill
+
   (show-paren-mode 1) ;; Remarca parèntesis
 
   (set-language-environment "UTF-8") ;; Tot bé i sense errors
@@ -145,6 +147,10 @@
       (global-auto-complete-mode t)
       (define-key ac-completing-map [return] nil)
       (define-key ac-completing-map "\r" nil)))
+
+  ;; (use-package autopair
+  ;;     :ensure t)
+  ;;     (autopair-global-mode)
 
 #+END_SRC
 
@@ -287,7 +293,9 @@
 	     :ensure t
 	     ;; :init
 	     ;; (global-flycheck-mode t)
-     )
+	     )
+
+	     (setq neo-window-fixed-size nil)
 
 	 ;; (setq neo-theme (if (display-graphic-p) 'icons 'arrow))
 	 ;; (insert (all-the-icons-icon-for-file "foo.py"))
@@ -315,9 +323,10 @@
   (add-hook 'LaTeX-mode-hook (function turn-on-reftex))
   (setq reftex-plug-into-AUCTeX t)
 
+  (add-hook 'LaTeX-mode-hook 'turn-on-reftex)   ; with AUCTeX LaTeX mode
   #+END_SRC
 
-
+  
 * Moure text adalt i abaix
   #+BEGIN_SRC emacs-lisp
 
