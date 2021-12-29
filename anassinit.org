@@ -1,6 +1,6 @@
 #+STARTUP: content
 
-* Configuracions Generals
+* General Configs
 #+BEGIN_SRC emacs-lisp
 
   (setq inhibit-startup-message t) ;; Treu la pantalla d'inici que és per a noobs
@@ -84,7 +84,7 @@
 
 
 
-* Buffer ajuda
+* Help menu
 #+BEGIN_SRC emacs-lisp
 
 (setq ido-enable-flex-matching t)
@@ -99,7 +99,7 @@
 
 
 
-* Swiper i control de busqueda
+* Swiper & Search Control
 #+BEGIN_SRC emacs-lisp
 
 (use-package counsel
@@ -150,7 +150,7 @@
 
 
 
-* Syntax: Flychech i Jedi
+* Syntax: Flychech i Jedi (for documentation helping for Python)
 
 ** Flycheck
   #+BEGIN_SRC emacs-lisp
@@ -175,7 +175,7 @@
   #+END_SRC
   
   
-* Yassnipet i Elpy
+* Yassnipet i Elpy (Snippets can be added and customized)
   #+BEGIN_SRC emacs-lisp
 
 
@@ -192,7 +192,7 @@
 
 
 
-* Arbre tornar enrera UNDO
+* Undro tree
 
 #+BEGIN_SRC emacs-lisp
 
@@ -210,7 +210,7 @@
 
 
 
-* Scheme, Themes i Icons  per l'estil
+* Scheme, Themes i Icons for style
   
 ** Theme (doom-themes)
    #+BEGIN_SRC emacs-lisp
@@ -256,7 +256,7 @@
    #+END_SRC
 
    
-** All-the-icons-ivy (pel buffer)
+** All-the-icons-ivy (for the buffer)
    #+BEGIN_SRC emacs-lisp
 
 	 (use-package all-the-icons-ivy
@@ -267,7 +267,7 @@
    #+END_SRC
 
 
-** Doom-modeline (queda super pro amb SVN i GIT)
+** Doom-modeline
    #+BEGIN_SRC emacs-lisp
 
 	 (use-package doom-modeline
@@ -277,7 +277,7 @@
    #+END_SRC
 
 
-** Neotree (memoize és una dependència)
+** Neotree (Lateral bar)
    #+BEGIN_SRC emacs-lisp
 
 	 (use-package memoize
@@ -308,7 +308,7 @@
 
 
 * Latex
-** Posar automàticament el label
+** Auto labeling
   #+BEGIN_SRC emacs-lisp
 
 
@@ -318,7 +318,7 @@
   #+END_SRC
 
 
-* Moure text adalt i abaix
+* Move text up and down (Alt+UP || Alt+Down)
   #+BEGIN_SRC emacs-lisp
 
   (defun move-text-internal (arg)
